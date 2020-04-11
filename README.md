@@ -10,7 +10,7 @@ BERT is implemented as an R package, which is freely available for non-commercia
 ## 2. Install
 Step 1: Download the above BERT package and install it in R (tested on version 3.6.0)
 
-Step 2: Install the "sva","flexclust","SC3","SingleCellExperiment","cluster","infotheo","scater","foreach" R package (tested on version 3.6.0), which is dependent of BERT.
+Step 2: Install the "sva","flexclust","SC3","SingleCellExperiment","cluster","infotheo","scater","foreach","doParallel" R package (tested on version 3.6.0), which is dependent of BERT.
 
 ## 3. Usage
 Notes: BERT was tested on linux.

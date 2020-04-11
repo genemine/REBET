@@ -6,6 +6,7 @@ BERT, is a method for determining the number of cell populations is based on gen
 
 ### 1.2 Download
 BERT is implemented as an R package, which is freely available for non-commercial use.
+[BERT_0.1.0.tar.gz](https://github.com/genemine/BERT/blob/master/BERT_0.1.0.tar.gz)
 
 ## 2. Install
 Step 1: Download the above BERT package and install it in R (tested on version 3.6.0)

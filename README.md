@@ -29,6 +29,7 @@ Step 3: in R command window, run the following command to see the help document 
 Step 4: At the end of the help page, there is an example code. Copy these codes to command to run as follows:
 
 > data(Ramskold)
+
 > result = BERT(data,kMax=3)
 
 The result is a value, which is the optimal number of cell subpopulations returned by BERT.

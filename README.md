@@ -32,7 +32,7 @@ Step 4: At the end of the help page, there is an example code. Copy these codes 
 
 > data(Ramskold)
 
-> result = BERT(data,kMax=3)
+> result = BERT(data, Kmax=3)
 
 The result is a value, which is the optimal number of cell subpopulations returned by BERT.
 

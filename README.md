@@ -1,23 +1,23 @@
-# BERT
-## 1. BERT
+# REBET
+## 1. REBET
 a Method to Determine the Number of Cell Subpopulations
 ### 1.1 Description
-BERT, is a method for determining the number of cell populations is based on gene expression profile. Two inputs are required to run BERT: (1) gene expression data matrix with samples in rows and genes in columns. (2) maximum number of clusters.
+REBET, is a method for determining the number of cell populations is based on gene expression profile. Two inputs are required to run BERT: (1) gene expression data matrix with samples in rows and genes in columns. (2) maximum number of clusters.
 
 ### 1.2 Download
-BERT is implemented as an R package, which is freely available for non-commercial use.
+REBET is implemented as an R package, which is freely available for non-commercial use.
 
 [BERT_0.1.0.tar.gz](https://github.com/genemine/BERT/blob/master/BERT_0.1.0.tar.gz)
 
 ## 2. Install
-Step 1: Download the above BERT package and install it in R (tested on version 3.6.0)
+Step 1: Download the above REBET package and install it in R (tested on version 3.6.0)
 
-Step 2: Install the "sva","flexclust","SC3","SingleCellExperiment","cluster","infotheo","scater","foreach","doParallel" R package (tested on version 3.6.0), which is dependent of BERT.
+Step 2: Install the "sva","flexclust","SC3","SingleCellExperiment","cluster","infotheo","scater","foreach","doParallel" R package (tested on version 3.6.0), which is dependent of REBET.
 
 ## 3. Usage
-Notes: BERT was tested on linux.
+Notes: REBET was tested on linux.
 
-Using BERT is very simple. Just follow the steps below:
+Using REBET is very simple. Just follow the steps below:
 
 Step 1: open your R or Rstudio
 Step 2: in the R command window, run the following command to load the R package

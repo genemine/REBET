@@ -2,7 +2,7 @@
 ## 1. REBET
 a Method to Determine the Number of Cell Subpopulations
 ### 1.1 Description
-REBET, is a method for determining the number of cell populations is based on gene expression profile. Two inputs are required to run BERT: (1) gene expression data matrix with samples in rows and genes in columns. (2) maximum number of clusters.
+REBET, is a method for determining the number of cell populations is based on gene expression profile. Two inputs are required to run REBET: (1) gene expression data matrix with samples in rows and genes in columns. (2) maximum number of clusters.
 
 ### 1.2 Download
 REBET is implemented as an R package, which is freely available for non-commercial use.
@@ -43,4 +43,4 @@ Hongdong Li, hongdong@csu.edu.cn
 ## 5. How to cite?
 If you use this tool, please cite the following work.
 
-ZhaoYu Fang, Hongdong Li, QingSong Xu, BERT: a Method to Determine the Number of Cell Subpopulations, 2020, submitted
+ZhaoYu Fang, Hongdong Li, QingSong Xu, REBET: a Method to Determine the Number of Cell Subpopulations, 2020, submitted

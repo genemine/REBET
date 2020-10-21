@@ -7,7 +7,7 @@ REBET, is a method for determining the number of cell populations is based on ge
 ### 1.2 Download
 REBET is implemented as an R package, which is freely available for non-commercial use.
 
-[BERT_0.1.0.tar.gz](https://github.com/genemine/BERT/blob/master/BERT_0.1.0.tar.gz)
+[REBET_0.1.0.tar.gz](https://github.com/genemine/REBET/blob/master/REBET_0.1.0.tar.gz)
 
 ## 2. Install
 Step 1: Download the above REBET package and install it in R (tested on version 3.6.0)
@@ -22,19 +22,19 @@ Using REBET is very simple. Just follow the steps below:
 Step 1: open your R or Rstudio
 Step 2: in the R command window, run the following command to load the R package
 
-> library(BERT)
+> library(REBET)
 
-Step 3: in R command window, run the following command to see the help document for running ClusterMine. Then, you should be able to see a help page.
+Step 3: in R command window, run the following command to see the help document for running REBET. Then, you should be able to see a help page.
 
-> ?BERT
+> ?REBET
 
 Step 4: At the end of the help page, there is an example code. Copy these codes to command to run as follows:
 
 > data(Ramskold)
 
-> result = BERT(data, Kmax=3)
+> result = REBET(data, Kmax=3)
 
-The result is a value, which is the optimal number of cell subpopulations returned by BERT.
+The result is a value, which is the optimal number of cell subpopulations returned by REBET.
 
 ## 4. Contact
 If any questions, please do not hesitate to contact us at:

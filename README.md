@@ -19,7 +19,7 @@ Notes: REBET was tested on linux.
 
 Using REBET is very simple. Just follow the steps below:
 
-Step 1: open your R or Rstudio
+Step 1: open your R or Rstudio \br
 Step 2: in the R command window, run the following command to load the R package
 
 > library(REBET)

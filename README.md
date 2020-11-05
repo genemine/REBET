@@ -10,7 +10,7 @@ REBET is implemented as an R package, which is freely available for non-commerci
 [REBET_0.1.0.tar.gz](https://github.com/genemine/REBET/blob/master/REBET_0.1.0.tar.gz)
 
 ## 2. Install
-Step 1: Download the above REBET package and install it in R (tested on version 3.6.0)
+Step 1: Download the above REBET package and install it in R (tested on version 3.6.0).
 
 Step 2: Install the "sva","flexclust","SC3","SingleCellExperiment","cluster","infotheo","scater","foreach","doParallel" R package (tested on version 3.6.0), which is dependent of REBET.
 
@@ -32,7 +32,7 @@ Step 4: At the end of the help page, there is an example code. Copy these codes 
 
 > data(Ramskold)
 
-This dataset consists of gene expression values of 21042 genes from 33 samples. The true number of subpopulations is 7. <\br> 
+This dataset consists of gene expression values of 21042 genes from 33 samples. The true number of subpopulations is 7. <br> 
 Ramsköld, D. et al. (2012). Full-length mRNA-Seq from single-cell levels of RNA and individual circulating tumor cells. Nat. Biotechnol., 30(8), 777–782.
 
 > result = REBET(data, Kmax=3)
@@ -45,6 +45,5 @@ If any questions, please do not hesitate to contact us at:
 Hongdong Li, hongdong@csu.edu.cn
 
 ## 5. How to cite?
-If you use this tool, please cite the following work.
-
+If you use this tool, please cite the following work.<br>
 ZhaoYu Fang, Hongdong Li, QingSong Xu, REBET: a Method to Determine the Number of Cell Subpopulations, 2020, submitted

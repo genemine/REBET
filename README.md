@@ -17,8 +17,7 @@ Step 2: Install the "sva","flexclust","SC3","SingleCellExperiment","cluster","in
 ## 3. Usage
 Notes: REBET was tested on linux.
 
-Using REBET is very simple. Just follow the steps below:
-
+Using REBET is very simple. Just follow the steps below:<br>
 Step 1: open your R or Rstudio. <br>
 Step 2: in the R command window, run the following command to load the R package.
 

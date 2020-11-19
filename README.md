@@ -1,6 +1,6 @@
 # REBET
 ## 1. REBET
-a Method to Determine the Number of Cell Subpopulations
+a Method to Determine the Number of Cell Subpopulations based on Batch Effect Removal.
 ### 1.1 Description
 REBET, is a method for determining the number of cell populations is based on gene expression profile. <br>
 Two inputs are required to run REBET: (1) gene expression data matrix with samples in rows and genes in columns. (2) maximum number of clusters.
@@ -45,4 +45,4 @@ Hongdong Li, hongdong@csu.edu.cn
 
 ## 5. How to cite?
 If you use this tool, please cite the following work.<br>
-ZhaoYu Fang, Hongdong Li, QingSong Xu, REBET: a Method to Determine the Number of Cell Subpopulations, 2020, submitted
+ZhaoYu Fang, CuiXiang Lin, YunPei Xu, Hongdong Li, QingSong Xu, REBET: a Method to Determine the Number of Cell Subpopulations based on Batch Effect Removal, 2020, submitted

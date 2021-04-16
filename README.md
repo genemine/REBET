@@ -11,11 +11,11 @@ REBET is implemented as an R package, which is freely available for non-commerci
 [REBET_0.1.0.tar.gz](https://github.com/genemine/REBET/blob/master/REBET_0.1.0.tar.gz)
 
 ## 2. Install
-Step 1: Download the above REBET package and install it in R (tested on version 3.6.0).<br>
-Step 2: Install the "sva","flexclust","SC3","SingleCellExperiment","cluster","infotheo","scater","foreach","doParallel" R package (tested on version 3.6.0), which is dependent of REBET.
+Step 1: Download the above REBET package and install it in R (tested on version 4.0.3).<br>
+Step 2: Install the "sva","flexclust","SC3","SingleCellExperiment","cluster","infotheo","scater","foreach","doParallel" R package (tested on version 4.0.3), which is dependent of REBET.
 
 ## 3. Usage
-Notes: REBET was tested on linux.
+Notes: REBET was tested on linux and windows.
 
 Using REBET is very simple. Just follow the steps below:<br>
 Step 1: open your R or Rstudio. <br>
@@ -45,4 +45,4 @@ Hongdong Li, hongdong@csu.edu.cn
 
 ## 5. How to cite?
 If you use this tool, please cite the following work.<br>
-ZhaoYu Fang, CuiXiang Lin, YunPei Xu, Hongdong Li, QingSong Xu, REBET: a Method to Determine the Number of Cell Clusters based on Batch Effect Removal, 2020, submitted
+ZhaoYu Fang, CuiXiang Lin, YunPei Xu, Hongdong Li, QingSong Xu, REBET: a Method to Determine the Number of Cell Clusters based on Batch Effect Removal, 2021, submitted

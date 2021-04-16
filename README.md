@@ -11,7 +11,7 @@ REBET is implemented as an R package, which is freely available for non-commerci
 [REBET_0.1.0.tar.gz](https://github.com/genemine/REBET/blob/master/REBET_0.1.0.tar.gz)
 
 ## 2. Install
-Step 1: Download the above REBET package and install it in R (tested on version 3.6.0).<br>
+Step 1: Download the above REBET package and install it in R (tested on version 4.0.3).<br>
 Step 2: Install the "sva","flexclust","SC3","SingleCellExperiment","cluster","infotheo","scater","foreach","doParallel" R package (tested on version 4.0.3), which is dependent of REBET.
 
 ## 3. Usage
